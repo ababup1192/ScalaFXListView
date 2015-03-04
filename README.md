@@ -1,4 +1,4 @@
-# HelloJavaFX
-JavaFX simple application
+# ScalaFX ListView Example
+ScalaFX simple application
 
-Designed by JavaFX scenebuilder 2.0
+Designed by ScalaFX scenebuilder 2.0
